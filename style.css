@@ -77,13 +77,13 @@ footer {
 
 @media screen and (max-width: 768px) {
   main {
-    width: 90%;
+    width: 100%;
     display: block;
     
   }
 
   .step-box {
-    width: 270px;
+    width: 90%;
     padding-bottom: 30px;
   }
 
